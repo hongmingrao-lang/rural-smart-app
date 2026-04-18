@@ -1,0 +1,1 @@
+import{g as t,p as r}from"./_plugin-vue_export-helper.EdZ5C1Q0.js";const e={login:t=>r("/auth/login",t),register:t=>r("/auth/register",t),logout:()=>r("/auth/logout"),getCurrentUser:()=>t("/auth/current")};export{e as a};

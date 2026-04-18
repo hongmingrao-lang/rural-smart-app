@@ -1,0 +1,1 @@
+function e(e,r=1){return null==e?"--":Number(e).toFixed(r)}function r(e){return{temperature:"温度",humidity:"湿度",soil:"土壤湿度",water_level:"水位"}[e]||e}function t(e){return{garden:"菜地",living_room:"客厅",bedroom:"卧室",kitchen:"厨房"}[e]||e}export{r as a,t as g,e as t};
